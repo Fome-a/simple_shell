@@ -14,5 +14,5 @@ Our shell was built and tested on  Ubuntu 14.04 LTS.
 - Final step: ENJOY!
 
 ## Contributors :sunglasses::muscle:
-* [**Arubayi Ofome **](https://github.com/Fome-a)
+* [**Arubayi Ofome**](https://github.com/Fome-a)
 * [**Emmanuel Omeje**](https://github.com/omejeemmanuel1)
