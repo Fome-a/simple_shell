@@ -14,7 +14,7 @@ This is a shell written in C. It is based on the Thompson Shell.
 Installation 🔧
 Clone the below repository and compile the files into an executable using the GCC compiler.
 
-https://github.com/Fraol123/simple_shell.git.
+
 ##Environment 🌲🌲
 
 Our shell was built and tested on Ubuntu 14.04 LTS.
